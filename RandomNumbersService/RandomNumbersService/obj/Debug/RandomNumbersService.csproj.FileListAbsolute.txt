@@ -1,0 +1,14 @@
+C:\Users\משה קולטון\Documents\Visual Studio 2017\Projects\RandomNumbersService\RandomNumbersService\bin\Debug\RandomNumbersService.dll.config
+C:\Users\משה קולטון\Documents\Visual Studio 2017\Projects\RandomNumbersService\RandomNumbersService\bin\Debug\RandomNumbersService.dll
+C:\Users\משה קולטון\Documents\Visual Studio 2017\Projects\RandomNumbersService\RandomNumbersService\bin\Debug\RandomNumbersService.pdb
+C:\Users\משה קולטון\Documents\Visual Studio 2017\Projects\RandomNumbersService\RandomNumbersService\obj\Debug\RandomNumbersService.csprojResolveAssemblyReference.cache
+C:\Users\משה קולטון\Documents\Visual Studio 2017\Projects\RandomNumbersService\RandomNumbersService\obj\Debug\RandomNumbersService.csproj.CoreCompileInputs.cache
+C:\Users\משה קולטון\Documents\Visual Studio 2017\Projects\RandomNumbersService\RandomNumbersService\obj\Debug\RandomNumbersService.dll
+C:\Users\משה קולטון\Documents\Visual Studio 2017\Projects\RandomNumbersService\RandomNumbersService\obj\Debug\RandomNumbersService.pdb
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersService\RandomNumbersService\bin\Debug\RandomNumbersService.dll.config
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersService\RandomNumbersService\bin\Debug\RandomNumbersService.dll
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersService\RandomNumbersService\bin\Debug\RandomNumbersService.pdb
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersService\RandomNumbersService\obj\Debug\RandomNumbersService.csprojResolveAssemblyReference.cache
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersService\RandomNumbersService\obj\Debug\RandomNumbersService.csproj.CoreCompileInputs.cache
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersService\RandomNumbersService\obj\Debug\RandomNumbersService.dll
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersService\RandomNumbersService\obj\Debug\RandomNumbersService.pdb

@@ -1,0 +1,21 @@
+C:\Users\Moshe\source\repos\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\bin\Debug\RandomNumbersWinFormsClient.exe.config
+C:\Users\Moshe\source\repos\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\bin\Debug\RandomNumbersWinFormsClient.exe
+C:\Users\Moshe\source\repos\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\bin\Debug\RandomNumbersWinFormsClient.pdb
+C:\Users\Moshe\source\repos\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\obj\Debug\RandomNumbersWinFormsClient.csprojResolveAssemblyReference.cache
+C:\Users\Moshe\source\repos\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\obj\Debug\RandomNumbersWinFormsClient.Form1.resources
+C:\Users\Moshe\source\repos\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\obj\Debug\RandomNumbersWinFormsClient.Properties.Resources.resources
+C:\Users\Moshe\source\repos\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\obj\Debug\RandomNumbersWinFormsClient.csproj.GenerateResource.Cache
+C:\Users\Moshe\source\repos\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\obj\Debug\RandomNumbersWinFormsClient.csproj.CoreCompileInputs.cache
+C:\Users\Moshe\source\repos\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\obj\Debug\RandomNumbersWinFormsClient.exe
+C:\Users\Moshe\source\repos\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\obj\Debug\RandomNumbersWinFormsClient.pdb
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\obj\Debug\RandomNumbersWinFormsClient.LoginForm.resources
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\obj\Debug\RandomNumbersWinFormsClient.MainForm.resources
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\obj\Debug\RandomNumbersWinFormsClient.Properties.Resources.resources
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\obj\Debug\RandomNumbersWinFormsClient.csproj.GenerateResource.Cache
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\obj\Debug\RandomNumbersWinFormsClient.csproj.CoreCompileInputs.cache
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\bin\Debug\RandomNumbersWinFormsClient.exe.config
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\bin\Debug\RandomNumbersWinFormsClient.exe
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\bin\Debug\RandomNumbersWinFormsClient.pdb
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\obj\Debug\RandomNumbersWinFormsClient.exe
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\obj\Debug\RandomNumbersWinFormsClient.pdb
+C:\Users\Moshe\Documents\Visual Studio 2017\Projects\RandomNumbersWinFormsClient\RandomNumbersWinFormsClient\obj\Debug\RandomNumbersWinFormsClient.csprojResolveAssemblyReference.cache
